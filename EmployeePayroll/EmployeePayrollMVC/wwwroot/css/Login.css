@@ -1,0 +1,23 @@
+﻿body {
+    background-image:url("/Assets/OIP (2).jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+.Login-row {
+   
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    align-content: center;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: row;
+}
+h1,h4{
+    text-align:center;
+    color:royalblue;
+}

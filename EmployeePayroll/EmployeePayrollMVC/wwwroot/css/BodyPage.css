@@ -1,0 +1,21 @@
+﻿body {
+    background: linear-gradient(135deg,#71b7e6,#9b59b9);
+}
+
+
+h1 {
+    align-content: center;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    align-content: center;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: row;
+}
